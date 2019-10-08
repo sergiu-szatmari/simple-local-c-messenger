@@ -42,7 +42,7 @@ The **client** has user input for commands. The client will try to connect to th
     - Shows all logged in users
 
 9. exit
-    - Exists the client application, logging out the user.
+    - Exits the client application, logging out the user.
 ```
 
 ## Usage
